@@ -7,7 +7,7 @@ import re
 
 
 class DataBase:
-    uri = "mongodb+srv://vkalushev:darkkong363@trading-bot.hmq5dih.mongodb.net/?retryWrites=true&w=majority"
+    uri = ""
 
     def __init__(self):
         self.client = MongoClient(self.uri, server_api=ServerApi('1'))
