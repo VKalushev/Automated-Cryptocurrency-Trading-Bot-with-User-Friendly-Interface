@@ -1,0 +1,13 @@
+aiohttp
+pandas
+plotly
+PyQt5
+PyQtWebEngine
+binance-connector
+requests
+gym
+numpy
+stable_baselines3
+bcrypt
+pybit
+pymongo
